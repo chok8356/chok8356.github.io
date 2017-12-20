@@ -4,4 +4,4 @@
 [rostelefone.ru](https://chok8356.github.io/rostelefon/)
 
 
-[auto-plast.ru](https://chok8356.github.io/auto-plaster/)
+[auto-plaster.ru](https://chok8356.github.io/auto-plaster/)
