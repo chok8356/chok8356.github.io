@@ -1,0 +1,44 @@
+//user settings
+
+{
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 1,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme"
+}
+
+//plugins
+
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"Gulp",
+		"HTML5",
+		"JavaScript Snippets",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"Theme - Afterglow",
+		"WordPress"
+	]
+}
+
